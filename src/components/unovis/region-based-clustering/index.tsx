@@ -13,7 +13,7 @@ const GraphComponent: React.FC = () => {
   }, []);
 
   return (
-    <div style={{ width: '100%', height: '800px' }}>
+    <div style={{ width: '100%', height: '100vh' }}>
       <VisSingleContainer
         style={{ width: '100%', height: '100%' }}
         data={{
